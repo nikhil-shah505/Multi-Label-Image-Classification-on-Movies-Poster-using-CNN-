@@ -12,9 +12,6 @@ Dataset Link: https://www.kaggle.com/raman77768/movie-classifier#
 This dataset was collected from the IMDB website. One poster image was collected from one (mostly) Hollywood movies released from 1980 to 2015. Each poster image is associated with a movie as well as some metadata like ID, genres. The ID of each image is set as its file name.
 The dataset contains 7254 rows and 27 columns along with the movie’s posters. 
 
-Acknowledgement of BDA Course Curriculum: 
-Subjects Like Machine Learning and Predictive & Prescriptive Analysis which are part of our Course curriculum has helped us greatly in understanding advanced machine learning and deep learning tools and algorithms required in building a model. We also got the opportunity to work on Project related to machine learning and neural networks which gave us hands-on experience and taught us how to approach a problem and select the right model. We would like to express our heartfelt appreciation to the entire PGDM-BDA fraternity for their continuing support and insightful feedback. The course had greatly enabled us to explore new domains as well use technical skills to build insightful machine learning models.
-
 Details of the Work and Insights: 
 
 Visualization of the Counts of Genres Occurrence
